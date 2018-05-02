@@ -11,3 +11,8 @@ saves/*.xml
 *.DS_STORE
 *.swp
 *.swo
+
+media/DiodeSynth
+media/DiodeGuitar
+media/MoogVCFSynth
+media/MoogVCFGuitar
